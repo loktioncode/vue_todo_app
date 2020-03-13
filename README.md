@@ -1,5 +1,4 @@
-# learn_vuejs
-
+# learning vuejs making a TODO app
 ## Project setup
 ```
 npm install
